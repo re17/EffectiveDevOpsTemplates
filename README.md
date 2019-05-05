@@ -1,0 +1,2 @@
+# EffectiveDevOpsTemplates
+Cloud Formation Template
